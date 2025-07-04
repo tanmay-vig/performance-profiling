@@ -57,10 +57,11 @@ This project performs a comparative analysis of five sorting algorithms—**Quic
 ## ▶️ How to Run
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/yourusername/sorting-algorithm-profiling.git
    cd sorting-algorithm-profiling
-````
+   ```
 
 2. **Install dependencies**
 
@@ -105,4 +106,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or improve.
 
-```
